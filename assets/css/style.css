@@ -9,6 +9,13 @@ header {
   padding-bottom: 10rem;
 }
 
+p.card-text > strong {
+  font-weight: 900;
+  line-height: 10px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
+
 body {
   background-color: #e1e1e1
 }
